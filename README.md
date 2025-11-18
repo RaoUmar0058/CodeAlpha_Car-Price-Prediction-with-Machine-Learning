@@ -1,9 +1,6 @@
 # 🚗 Car Price Prediction with Machine Learning
 
-[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
-[![Downloads](https://img.shields.io/github/downloads/rao-umar/car-price-prediction/total?color=orange)](https://github.com/rao-umar/car-price-prediction/releases)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rao_Umar-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rao-umar-904807355)
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-green) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Rao%20Umar-blue?logo=linkedin)
 
 **Author:** Khadija Rao  
 **Email:** [emailraoumar0058@gmail.com](mailto:emailraoumar0058@gmail.com)  
@@ -13,25 +10,25 @@
 
 ## 🔍 Project Overview
 
-This project predicts the **selling price of used cars** in India using a **Random Forest Regressor**.  
-It provides an **interactive, dashboard-like experience** in Jupyter Notebook and includes:
+This project predicts the **selling price of used cars in India** using a **Random Forest Regressor**.  
+It offers a **dashboard-like experience** in Jupyter Notebook and includes:
 
 - Data preprocessing and feature encoding
 - Model training and evaluation
 - Visualization of feature importance and correlations
-- Predicting new car prices with saved model, scaler, and label encoders
-- Fun, interactive ending messages & stats summary
+- Predicting new car prices using saved model, scaler, and label encoders
+- Fun, interactive messages & quick stats summary
 
 ---
 
 ## 🧰 Key Features
 
-- **Automatic Data Encoding:** Converts categorical variables into numeric format.  
-- **Random Forest Model:** High accuracy predictions on unseen data.  
-- **Visualizations:** Scatter plots, correlation heatmaps, feature importance bar charts.  
-- **Interactive Sliders (Jupyter):** Test predictions for any car configuration.  
-- **Model Persistence:** Save/load model, scaler, and label encoders for future use.  
-- **CSV Predictions:** Full dataset predictions saved for easy analysis.  
+- **Automatic Data Encoding:** Converts categorical variables to numeric format.
+- **Random Forest Model:** High-accuracy predictions on unseen data.
+- **Visualizations:** Scatter plots, correlation heatmaps, and feature importance charts.
+- **Interactive Sliders (Jupyter Notebook):** Test predictions for any car configuration.
+- **Model Persistence:** Save/load model, scaler, and label encoders for future use.
+- **CSV Predictions:** Full dataset predictions saved for easy analysis.
 
 ---
 
@@ -56,12 +53,16 @@ car-price-prediction/
 
 ### Predicted Selling Price
 
-> 💰 Predicted Selling Price: 7.6 lakhs
+```text
+💰 Predicted Selling Price: 7.6 lakhs
+```
 
 ### Model Evaluation (Test Set)
 
-> Mean Squared Error (MSE): 0.12
-> R² Score: 0.95
+```text
+Mean Squared Error (MSE): 0.12
+R² Score: 0.95
+```
 
 ### Visualization Examples
 
@@ -98,15 +99,15 @@ python "Car Prices Prediction with Machine Learning.py"
 jupyter notebook "Car Prices Prediction Notebook.ipynb"
 ```
 
-* Use sliders to predict car prices interactively.
-* See fun stats and playful messages after each prediction.
+5. **Use interactive sliders** to predict car prices.
+6. **See fun stats and playful messages** after each prediction.
 
 ---
 
 ## 💡 Fun & Interactive Features
 
 * Random playful messages after predictions
-* Mini ASCII car art as a playful signature
+* Mini ASCII car art:
 
 ```text
       ______
@@ -115,7 +116,11 @@ jupyter notebook "Car Prices Prediction Notebook.ipynb"
     =`-(_)--(_)-'
 ```
 
-* Quick stats summary (total cars, highest price, most common fuel type)
+* Quick stats summary:
+
+  * Total cars analyzed
+  * Highest price
+  * Most common fuel type
 * Random sounds & “mysterious fortunes” after prediction
 
 ---
@@ -133,4 +138,5 @@ It can be extended to include more cars, additional features, or different ML mo
 Email: [emailraoumar0058@gmail.com](mailto:emailraoumar0058@gmail.com)
 LinkedIn: [Rao Umar](https://www.linkedin.com/in/rao-umar-904807355)
 
-Feel free to connect, collaborate, or share feedback! 
+Feel free to connect, collaborate, or share feedback!
+
